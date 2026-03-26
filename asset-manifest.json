@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.3911c2e0.css",
-    "main.js": "/static/js/main.3f27975e.js",
-    "index.html": "/index.html",
-    "main.3911c2e0.css.map": "/static/css/main.3911c2e0.css.map",
-    "main.3f27975e.js.map": "/static/js/main.3f27975e.js.map"
+    "main.css": "/TravelEeenglish/static/css/main.3911c2e0.css",
+    "main.js": "/TravelEeenglish/static/js/main.3f27975e.js",
+    "index.html": "/TravelEeenglish/index.html",
+    "main.3911c2e0.css.map": "/TravelEeenglish/static/css/main.3911c2e0.css.map",
+    "main.3f27975e.js.map": "/TravelEeenglish/static/js/main.3f27975e.js.map"
   },
   "entrypoints": [
     "static/css/main.3911c2e0.css",
